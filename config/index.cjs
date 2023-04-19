@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '1998', date: '01-26',
+          type: '生日', name: '宝贝', year: '1998', date: '01-26',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '02-07',
@@ -43,8 +43,8 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-02-07' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2025-09-09' },
+        // 大姨妈日期
+        { keyword: 'marry_day', date: '2023-04-14' },
       ],
     },
   ],
