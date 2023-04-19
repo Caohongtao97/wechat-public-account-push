@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oyymf57FCNDKvoPMlmZiBwjGSCs0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'DJoPurZ_n0ETjHguAaI9QCrAfGxS5HbWO_dnUaz5JgI',
+      useTemplateId: 'Cq9iNNjGp1obye6DJ4gJbBATXWZKFV-PvZyuU-K-suc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-26',
       festivals: [
@@ -33,7 +33,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '宝贝', year: '1998', date: '01-26',
+          type: '生日', name: '老公', year: '1997', date: '11-25',
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '02-07',
@@ -44,14 +44,14 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-02-07' },
         // 大姨妈日期
-        { keyword: 'marry_day', date: '2023-04-14' },
+        { keyword: 'dayima', date: '2023-04-14' },
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'DJoPurZ_n0ETjHguAaI9QCrAfGxS5HbWO_dnUaz5JgI',
+  CALLBACK_TEMPLATE_ID: '	Cq9iNNjGp1obye6DJ4gJbBATXWZKFV-PvZyuU-K-suc',
 
   CALLBACK_USERS: [
     {
