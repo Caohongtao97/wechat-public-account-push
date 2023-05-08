@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-02-07' },
         // 大姨妈日期
-        { keyword: 'dayima', date: '2023-04-14' },
+        { keyword: 'dayima_day', date: '2023-04-14' },
       ],
     },
   ],
